@@ -1,0 +1,135 @@
+design data from homework#2
+k=1
+4th sample : 2.52284/2.346605/1 is misclassified as C2
+7th sample : 2.603995/2.214985/2 is misclassified as C1
+11th sample : 2.419083/2.204669/2 is misclassified as C1
+14th sample : 2.301764/2.207166/1 is misclassified as C2
+18th sample : 2.483319/2.402606/1 is misclassified as C2
+33th sample : 2.575887/2.472897/2 is misclassified as C1
+34th sample : 2.287909/2.291183/1 is misclassified as C2
+43th sample : 2.451555/2.425105/2 is misclassified as C1
+54th sample : 2.666613/2.283187/1 is misclassified as C2
+57th sample : 2.491351/2.377892/2 is misclassified as C1
+62th sample : 2.382241/2.355852/1 is misclassified as C2
+68th sample : 2.649339/2.521384/1 is misclassified as C2
+74th sample : 2.439189/2.167278/1 is misclassified as C2
+88th sample : 2.53462/2.307999/1 is misclassified as C2
+91th sample : 2.301617/2.261007/2 is misclassified as C1
+93th sample : 2.510578/2.315604/2 is misclassified as C1
+96th sample : 2.45222/2.286148/1 is misclassified as C2
+
+The error number of total misclassified samples is 17
+The error number of misclassified samples in C1 is 10
+The error number of misclassified samples in C2 is 7
+
+K=3
+4th sample : 2.52284/2.346605/1 is misclassified as C2
+7th sample : 2.603995/2.214985/2 is misclassified as C1
+11th sample : 2.419083/2.204669/2 is misclassified as C1
+18th sample : 2.483319/2.402606/1 is misclassified as C2
+26th sample : 2.696796/2.599695/1 is misclassified as C2
+33th sample : 2.575887/2.472897/2 is misclassified as C1
+43th sample : 2.451555/2.425105/2 is misclassified as C1
+54th sample : 2.666613/2.283187/1 is misclassified as C2
+56th sample : 2.52168/2.182049/1 is misclassified as C2
+57th sample : 2.491351/2.377892/2 is misclassified as C1
+62th sample : 2.382241/2.355852/1 is misclassified as C2
+68th sample : 2.649339/2.521384/1 is misclassified as C2
+91th sample : 2.301617/2.261007/2 is misclassified as C1
+92th sample : 2.506238/2.452626/1 is misclassified as C2
+93th sample : 2.510578/2.315604/2 is misclassified as C1
+96th sample : 2.45222/2.286148/1 is misclassified as C2
+
+The error number of total misclassified samples is 16
+The error number of misclassified samples in C1 is 9
+The error number of misclassified samples in C2 is 7
+
+k=5
+7th sample : 2.603995/2.214985/2 is misclassified as C1
+9th sample : 2.447313/2.365899/2 is misclassified as C1
+11th sample : 2.419083/2.204669/2 is misclassified as C1
+18th sample : 2.483319/2.402606/1 is misclassified as C2
+26th sample : 2.696796/2.599695/1 is misclassified as C2
+33th sample : 2.575887/2.472897/2 is misclassified as C1
+43th sample : 2.451555/2.425105/2 is misclassified as C1
+54th sample : 2.666613/2.283187/1 is misclassified as C2
+62th sample : 2.382241/2.355852/1 is misclassified as C2
+68th sample : 2.649339/2.521384/1 is misclassified as C2
+91th sample : 2.301617/2.261007/2 is misclassified as C1
+92th sample : 2.506238/2.452626/1 is misclassified as C2
+93th sample : 2.510578/2.315604/2 is misclassified as C1
+96th sample : 2.45222/2.286148/1 is misclassified as C2
+
+The error number of total misclassified samples is 14
+The error number of misclassified samples in C1 is 7
+The error number of misclassified samples in C2 is 7
+
+k=7
+7th sample : 2.603995/2.214985/2 is misclassified as C1
+9th sample : 2.447313/2.365899/2 is misclassified as C1
+11th sample : 2.419083/2.204669/2 is misclassified as C1
+18th sample : 2.483319/2.402606/1 is misclassified as C2
+26th sample : 2.696796/2.599695/1 is misclassified as C2
+33th sample : 2.575887/2.472897/2 is misclassified as C1
+43th sample : 2.451555/2.425105/2 is misclassified as C1
+54th sample : 2.666613/2.283187/1 is misclassified as C2
+57th sample : 2.491351/2.377892/2 is misclassified as C1
+62th sample : 2.382241/2.355852/1 is misclassified as C2
+68th sample : 2.649339/2.521384/1 is misclassified as C2
+91th sample : 2.301617/2.261007/2 is misclassified as C1
+92th sample : 2.506238/2.452626/1 is misclassified as C2
+93th sample : 2.510578/2.315604/2 is misclassified as C1
+96th sample : 2.45222/2.286148/1 is misclassified as C2
+
+The error number of total misclassified samples is 15
+The error number of misclassified samples in C1 is 7
+The error number of misclassified samples in C2 is 8
+
+---------------------------------------------------------------
+test data from homework#2
+K=1
+4th sample : 2.395761/2.524802/1 is misclassified as C2
+18th sample : 2.324775/2.320908/1 is misclassified as C2
+25th sample : 2.794461/2.280386/2 is misclassified as C1
+32th sample : 2.367776/2.576531/1 is misclassified as C2
+77th sample : 2.314679/2.326469/2 is misclassified as C1
+79th sample : 2.517566/2.26595/2 is misclassified as C1
+
+The error number of total misclassified samples is 6
+The error number of misclassified samples in C1 is 3
+The error number of misclassified samples in C2 is 3
+
+K=3
+4th sample : 2.395761/2.524802/1 is misclassified as C2
+36th sample : 2.551222/2.344316/1 is misclassified as C2
+76th sample : 2.421641/2.453969/1 is misclassified as C2
+77th sample : 2.314679/2.326469/2 is misclassified as C1
+79th sample : 2.517566/2.26595/2 is misclassified as C1
+
+The error number of total misclassified samples is 5
+The error number of misclassified samples in C1 is 3
+The error number of misclassified samples in C2 is 2
+
+K=5
+32th sample : 2.367776/2.576531/1 is misclassified as C2
+50th sample : 2.309638/2.556114/1 is misclassified as C2
+76th sample : 2.421641/2.453969/1 is misclassified as C2
+77th sample : 2.314679/2.326469/2 is misclassified as C1
+79th sample : 2.517566/2.26595/2 is misclassified as C1
+89th sample : 2.366164/2.627808/2 is misclassified as C1
+
+The error number of total misclassified samples is 6
+The error number of misclassified samples in C1 is 3
+The error number of misclassified samples in C2 is 3
+
+K=7
+4th sample : 2.395761/2.524802/1 is misclassified as C2
+32th sample : 2.367776/2.576531/1 is misclassified as C2
+50th sample : 2.309638/2.556114/1 is misclassified as C2
+76th sample : 2.421641/2.453969/1 is misclassified as C2
+77th sample : 2.314679/2.326469/2 is misclassified as C1
+79th sample : 2.517566/2.26595/2 is misclassified as C1
+
+The error number of total misclassified samples is 6
+The error number of misclassified samples in C1 is 4
+The error number of misclassified samples in C2 is 2
